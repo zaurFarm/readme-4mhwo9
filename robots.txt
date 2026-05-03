@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zaurFarm.github.io/readme-4mhwo9/sitemap.xml
